@@ -265,3 +265,12 @@ ul{
     opacity:1;
   }
 
+
+/* ------------------ footer --------------*/
+
+footer{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+}
